@@ -1,8 +1,3 @@
 ## Hi there 👋
 
-<!--
-**vihini-perera/vihini-perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Hi, I'm Vihini — a Cybersecurity Analyst based in Colombo, Sri Lanka, currently working as an intern at E-MediaBiz (England, remote) in a managed security services environment. I hold a Bachelor of Science in Cybersecurity from Edith Cowan University, Australia, and I work across security operations, endpoint protection, SIEM-based monitoring, and incident response on a daily basis. I'm methodical about the work, genuinely curious about the threat landscape, and always looking to sharpen both my technical depth and my ability to communicate security clearly to the people who need to act on it.
